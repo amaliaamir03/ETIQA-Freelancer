@@ -6,6 +6,7 @@ A directory project of contact get people for a job
 * Visual Studio 2022, Microsoft SQL Server Management Studio 19.1
 ### Skillsets
 * ASP.Net Core Web API,
+* C#,
 * .NET 6,
 * RESTful API,
 * MVC,
