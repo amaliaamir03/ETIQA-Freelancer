@@ -16,7 +16,8 @@ A directory project of contact get people for a job
 * In this project have two(2) projects which are FreelancerList (project with Web API) and FreelancerUI (project with MVC).
 * This project use Microsoft SQL Server Management Studio (MSSQL) as a database to store the data and get the data.
 ### Setup
-* To run this project, need to setup the solution properties choose 'Startup Projects' and click the 'Multiple startup projects' and select 'Start' for both projects.
+* To run this project, must unzip all the files first.
+* Setup the solution properties choose 'Startup Projects' and click the 'Multiple startup projects' and select 'Start' for both projects.
 * After run the project, two(2) web browser will appear on the screen. One(1) screen for Web API (Swagger) and other one(1) is the interface of freelancer details. The interface, call the RESTful API to make the action (@GET, @POST, @PUT, @DELETE).
 * Moreover, can check the video demo from the zip folder for further explanation.
 ### Inspiration
