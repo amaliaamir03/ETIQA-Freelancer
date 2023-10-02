@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FreelancerList", "FreelancerList\FreelancerList.csproj", "{184F97DE-33E5-47D4-AB0D-26DFD74B410B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreelancerUI", "FreelancerUI\FreelancerUI.csproj", "{669019A5-1D73-4619-82B4-2B749E13A411}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{184F97DE-33E5-47D4-AB0D-26DFD74B410B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{184F97DE-33E5-47D4-AB0D-26DFD74B410B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{184F97DE-33E5-47D4-AB0D-26DFD74B410B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{184F97DE-33E5-47D4-AB0D-26DFD74B410B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{669019A5-1D73-4619-82B4-2B749E13A411}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{669019A5-1D73-4619-82B4-2B749E13A411}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{669019A5-1D73-4619-82B4-2B749E13A411}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{669019A5-1D73-4619-82B4-2B749E13A411}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3B7E956-E00B-4B0C-B7A2-280DA41F9423}
+	EndGlobalSection
+EndGlobal
